@@ -41,5 +41,5 @@ nombre y los mensajes a tu gusto!
 Opcionales:
 
 - puedes agregar las "imagenes" facilitadas para ilustrar el estado y acciones de la mascota
-
+- puedes agregar un metodo de presentacion y despedida
 - si te animas podes agregar una interfaz para poder jugar con la mascota.
